@@ -1,0 +1,23 @@
+body{
+  margin-top: 30px;
+
+}
+
+.card{
+  margin: 60px;
+  color: brown;
+}
+.formulaire{
+  margin: auto;
+  width: 600px;
+  margin-top: 70px;
+  border: 2px solid rgb(108, 172, 197);
+  padding: 30px;
+  border-radius: 10%;
+}
+.btn{
+  margin:10px 220px;
+}
+.App-header{
+  font-size: 18px;
+}
